@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil-v05
 - 👀 I’m interested in ... Data Scientist 
-- 🌱 I’m currently learning ...python,mysql,tableau,powerBI
+- 🌱 I’m currently learning ...python,mysql,MachineLearning,AI
 - 💞️ I’m looking to collaborate on ...learning python language 
 - 📫 How to reach me ...
 
